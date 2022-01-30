@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.homewall{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.prof{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    border-radius: 60%;
+    left:45%;
+    margin-top: 5%;
+    cursor: pointer;
+    background-color: aliceblue;
+}
+table{
+    position:absolute;
+    left:43%;
+    top:35%;
+    background: transparent;
+    color: antiquewhite ;
+
+}
+.Dark{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.hack{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.abt{
+    position:absolute;
+    left:43%;
+    top:35%;
+    background: transparent;
+    color: antiquewhite ;
+}
+P{
+    position:absolute;
+    left:40%;
+    top:45%;
+    background: transparent;
+    color: antiquewhite ;
+}
+.int{
+    position:absolute;
+    left:30%;
+    top:35%;
+    background: transparent;
+    color: antiquewhite ;
+    font-size: large;
+}
+.hb{
+    position:absolute;
+    left:30%;
+    top:55%;
+    background: transparent;
+    color: antiquewhite ;
+    font-size: large;
+}
+.lin{
+    cursor: pointer;
+    border-radius: 60%;
+    background: transparent;
+    color: antiquewhite;
+}
